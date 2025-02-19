@@ -21,7 +21,7 @@ ecom-web-app/
 1. **Clone the Repository:**
 
    ```sh
-   git clone https://github.com/Kavetec/ecom-web-app.git
+   git clone https://github.com/DivineTheAnalyst/ecom-web-app.git
    cd ecom-web-app
    ```
 
@@ -58,7 +58,4 @@ We welcome contributions! To get started:
 4. Push to the branch: `git push origin feature-branch`.
 5. Submit a pull request for review.
 
-## Contact
-
-For questions or support, please reach out via the Kavetec community.
 
